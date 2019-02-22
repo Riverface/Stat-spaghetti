@@ -1,0 +1,38 @@
+.main
+{
+border: 2px solid black;
+width: 200px;
+border-radius: 10px;
+}
+.might
+{
+background-color: pink;
+}
+.spryness
+{
+  background-color: #9ffce6;
+
+}
+.fortune
+{
+background-color: gold;
+}
+.magnetism
+{
+background-color: magenta ;
+}
+.echo
+{
+background-color: lightblue;
+}
+.judgement
+{
+  background-color: teal;
+}
+.stat
+{
+  border-radius: 20px;
+  padding-left: 5px;
+  width: 150px;
+  border: 2px solid;
+}
